@@ -1,0 +1,9 @@
+/build/
+/build-ninja/
+/dist/
+/test-output/
+*.user
+*.dmp
+*.log
+/rdrx/
+/live-session/

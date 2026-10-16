@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.lib binary
+*.ifc binary
+*.asi binary
+*.SAAS binary
+*.exe binary
+*.dmp binary
